@@ -42,6 +42,4 @@ class Solution {
         }
         return ret;
     }
-    
-    
 }
